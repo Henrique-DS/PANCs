@@ -1,0 +1,41 @@
+.title{
+    font-weight: bolder;
+    font-size: 80px;
+    text-align: center;
+}
+.information{
+    font-size: 35px;
+    padding: 0 80px;
+}
+.CatPage{
+    font-size: 60px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+#LinkD{
+    background-image: URL(images/linkDefin.png);
+    margin: 30px 5% 30px 5%;
+    width: 90%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.au{
+text-align: left;
+font-size: 25px;
+padding: 0 80px;
+}
+.title2{
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+}
+.CatBox{
+    width: 50%;
+    border-style: solid;
+    border-width: 1%;
+    border-color: #3BD962;
+    margin: 1% 24% 1% 24%;
+}
