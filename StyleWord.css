@@ -4,8 +4,9 @@
     text-align: center;
 }
 .information{
-    font-size: 35px;
-    padding: 0 80px;
+    font-size: 28px;
+    padding: 0 90px 50px 90px;
+    margin: 0 50px;
 }
 .CatPage{
     font-size: 60px;
@@ -23,9 +24,9 @@
     justify-content: center;
 }
 .au{
-text-align: left;
-font-size: 25px;
-padding: 0 80px;
+    text-align: left;
+    font-size: 25px;
+    padding: 0 0 0 140px;
 }
 .title2{
     font-size: 45px;
